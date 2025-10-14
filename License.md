@@ -8,7 +8,8 @@ You are granted a non-exclusive, non-transferable license to use, modify, and di
 The schematic, PCB, and firmware are provided "as is," without warranty of any kind, express or implied. The creator assumes no responsibility for any direct or indirect damages, data loss, or other negative consequences that may arise from the use of this project. You are solely responsible for any and all risks associated with building, modifying, or using this project. The creator is not liable for any injury, damage to property, or other issues caused by the user's assembly or use of the project.
 
 ### 3. Commercial Use and Resale
-The commercial use, sale, or distribution of any product, whether in its original or modified form, that is based on or derived from this project's schematic, PCB, or firmware is strictly prohibited without the prior written consent of the creator. Unauthorized commercial use may result in legal action for copyright infringement and other applicable claims.
+The commercial use, sale, or distribution of any product, whether in its original or modified form, that is based on or derived from this project's schematic, PCB, or firmware is strictly prohibited without the prior written consent of the creator. 
+Limited distribution to friends or acquaintances is permitted, provided that no sale or commercial transaction occurs. Unauthorized commercial use may result in legal action for copyright infringement and other applicable claims.
 
 ### 4. Attribution
 Any public display or distribution of this project, in any form, must include a clear and visible attribution to the original creator.
