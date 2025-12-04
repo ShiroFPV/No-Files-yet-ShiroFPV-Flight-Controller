@@ -13,8 +13,6 @@ The documentation covers:
 
 ## 🛠️ Getting Started
 
-To get started with our flight controller, you can either flash a pre-compiled firmware or build it from source.
-
 ### Flashing Pre-compiled Firmware
 
 1.  Download the latest firmware `.hex` file from the Releases page.
