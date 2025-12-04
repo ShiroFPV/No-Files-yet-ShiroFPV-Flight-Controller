@@ -20,7 +20,7 @@ To get started with our flight controller, you can either flash a pre-compiled f
 1.  Download the latest firmware `.hex` file from the Releases page.
 2.  Connect your FC to your computer via USB.
 3.  Open the [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator/releases) and navigate to the **Firmware Flasher** tab.
-4.  Select the correct board target: `[Your Board Target Name]`
+4.  Select the correct board target: `ShiroFPV F405 V01`
 5.  Click **"Load Firmware [Local]"** and select the `.hex` file you downloaded.
 6.  Click **"Flash Firmware"** and wait for the process to complete.
 
